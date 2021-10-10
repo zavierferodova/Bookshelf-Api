@@ -2,4 +2,5 @@
 
 The CRUD Bookshelf Api built using Hapi Framework Node JS.
 
-**Testing :** Import environtment and collection file on testing directory to Postman then run it.
+**Testing :** </br>
+Import environment and collection files on testing directory to Postman then run it.
