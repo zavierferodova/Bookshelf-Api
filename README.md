@@ -1,3 +1,6 @@
 # Bookshelf Api
 
-Simple Node JS with API framework to do CRUD book data
+The CRUD Bookshelf Api built using Hapi Framework Node JS.
+
+**Testing**
+Import environtment and collection file on testing directory to Postman then run it.
